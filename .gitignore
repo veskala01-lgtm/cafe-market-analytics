@@ -1,0 +1,21 @@
+# API Keys and secrets
+.env
+secrets.py
+config.py
+
+# Data files (too large / sensitive for Git)
+data/raw/
+data/processed/
+
+# Python clutter
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS clutter
+.DS_Store
+Thumbs.db
