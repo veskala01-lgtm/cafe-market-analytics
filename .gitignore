@@ -12,6 +12,11 @@ __pycache__/
 *.pyc
 *.pyo
 .ipynb_checkpoints/
+.venv/
+aider-env/
+
+# Generated analysis outputs (regenerable from notebooks)
+outputs/
 
 # VS Code settings
 .vscode/
@@ -19,3 +24,4 @@ __pycache__/
 # OS clutter
 .DS_Store
 Thumbs.db
+.aider*
